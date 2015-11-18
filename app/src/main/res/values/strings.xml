@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">Бяда!</string>
+    <string name="error_message">Здарылася памылка! Паспрабуйце зноў</string>
+    <string name="error_ok_button_text">Добра</string>
+    <string name="network_unavailable_message">Сеткі няма</string>
+</resources>
